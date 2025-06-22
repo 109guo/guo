@@ -2,13 +2,13 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=gb2312"/>
-<title>µÐ</title>
+<title>æ•Œ</title>
 <marquee behavior="slide" direction="up" height="50" width="1345" bgcolor="2F4F4F">
 <h1 align="center">
 <font face="verdana" size=3 color="FFFFFF">
 <i>
 <h2>
-Ò²Ôø
+ä¹Ÿæ›¾
 </h2>
 </i>
 </font>
@@ -32,7 +32,7 @@
 	padding:47px 0 0 20px;
 	font-size:20px;
 	color:#000000;
-	font-family:"¿¬Ìå"
+	font-family:"æ¥·ä½“"
 	}
 #logo p{
 	padding:69px 0 0 7px;
@@ -70,7 +70,7 @@
 	color:#000000;
 	}
 #menu a:hover, #menu .current_page_item a{
-	background:#FFFFFF£»
+	background:#FFFFFFï¼›
 	}
 #content{
 	float:left;
@@ -180,10 +180,10 @@
 .m{
 	color:#FFFFFF;
 	font-size:14px;
-	font-family:"Õý¿¬";
+	font-family:"æ­£æ¥·";
 	}
 .q{
-	font-family:¿¬Ìå 	;
+	font-family:æ¥·ä½“ 	;
 	font-size:18px;
 	bordor-style:double
 	margin-top:25px;
@@ -196,18 +196,18 @@
 </head>
 <body bgcolor="#2F4F4F">
 <Div id="header">
-<Div id="logo"><h3 class="h3">&nbsp °®¸ñ</br>ÖÐÄÏÌìÊ¹</h3></div>
+<Div id="logo"><h3 class="h3">&nbsp çˆ±æ ¼</br>ä¸­å—å¤©ä½¿</h3></div>
 <Div id="menu">
 <ul>
 <li class="current_page_item">
-<a href="#0"><font color="000000">Ä¿Â¼</font></a></li>
-<li><a href="#1"><font color="000000">¹ØÓÚ×÷Õß</font></a></li>
-<li><a href="#2"><font color="000000">ÄÚÈÝ¼ò½é</a></font></li>
-<li><a href="5.html#3"><font color="000000">Ð´×÷±³¾°</font></a></li>
-<li><a href="4.html#4"><font color="000000">´´×÷ÒâÍ¼</font></a></li>
-<li><a href="6.html#5"><font color="000000">ÊÊºÏÈËÈº</font></a></li>
-<li><a href="#7"><font color="000000">¾­µäÓïÂ¼</font></a></li>
-<li><a href="#8"><font color="000000">ÁªÏµ×÷Õß</font></a></li>
+<a href="#0"><font color="000000">ç›®å½•</font></a></li>
+<li><a href="#1"><font color="000000">å…³äºŽä½œè€…</font></a></li>
+<li><a href="#2"><font color="000000">å†…å®¹ç®€ä»‹</a></font></li>
+<li><a href="5.html#3"><font color="000000">å†™ä½œèƒŒæ™¯</font></a></li>
+<li><a href="4.html#4"><font color="000000">åˆ›ä½œæ„å›¾</font></a></li>
+<li><a href="6.html#5"><font color="000000">é€‚åˆäººç¾¤</font></a></li>
+<li><a href="#7"><font color="000000">ç»å…¸è¯­å½•</font></a></li>
+<li><a href="#8"><font color="000000">è”ç³»ä½œè€…</font></a></li>
 </ul>
 </div>
 </div>
@@ -215,27 +215,27 @@
 <Div id="leftbar" class="sidebar">
 <ul>
 <li>
-<h2><font color="#FFFFFF"><p>&nbsp  &nbsp <a name="0"></a>Ä¿Â¼</p></font></h2>
+<h2><font color="#FFFFFF"><p>&nbsp  &nbsp <a name="0"></a>ç›®å½•</p></font></h2>
 <ul>
-<li><a href="#">µÚÒ»·âÐÅ:°®Ä½</a></li>
-<li><a href="#">µÚ¶þ·âÐÅ:Ê§Áµ</a></li>
-<li><a href="#">µÚÈý·âÐÅ:ÓÂÆø</a></li>
-<li><a href="#">µÚËÄ·âÐÅ:¾àÀë</a></li>
-<li><a href="#">µÚÎå·âÐÅ:Æ½µÈ</a></li>
-<li><a href="#">µÚÁù·âÐÅ:ÓÑÇé</a></li>
-<li><a href="#">µÚÆß·âÐÅ:Òõ°µ</a></li>
-<li><a href="#">µÚ°Ë·âÐÅ:¹ÊÏç</a></li>
-<li><a href="#">µÚ¾Å·âÐÅ:¹«Æ½</a></li>
-<li><a href="#">µÚÊ®·âÐÅ:¼µ¶Ê</a></li>
-<li><a href="#">µÚÊ®Ò»·âÐÅ:·¢¹â</a></li>
-<li><a href="#">µÚÊ®¶þ·âÐÅ:¹Â¶À</a></li>
-<li><a href="#">µÚÊ®Èý·âÐÅ:Ä¸Ç×</a></li>
-<li><a href="#">µÚÊ®ËÄ·âÐÅ:ÆÕÍ¨</a></li>
-<li><a href="#">µÚÊ®Îå·âÐÅ:·ÊÅÖ</a></li>
-<li><a href="#">µÚÊ®Áù·âÐÅ:Ñ¹Á¦</a></li>
-<li><a href="#">µÚÊ®Æß·âÐÅ:¸¸Ç×</a></li>
-<li><a href="#">µÚÊ®°Ë·âÐÅ:Çà´º</a></li>
-<li><a href="#">µÚÊ®¾Å·âÐÅ:ÖØÐÂ¿ªÊ¼</a></li>
+<li><a href="#">ç¬¬ä¸€å°ä¿¡:çˆ±æ…•</a></li>
+<li><a href="#">ç¬¬äºŒå°ä¿¡:å¤±æ‹</a></li>
+<li><a href="#">ç¬¬ä¸‰å°ä¿¡:å‹‡æ°”</a></li>
+<li><a href="#">ç¬¬å››å°ä¿¡:è·ç¦»</a></li>
+<li><a href="#">ç¬¬äº”å°ä¿¡:å¹³ç­‰</a></li>
+<li><a href="#">ç¬¬å…­å°ä¿¡:å‹æƒ…</a></li>
+<li><a href="#">ç¬¬ä¸ƒå°ä¿¡:é˜´æš—</a></li>
+<li><a href="#">ç¬¬å…«å°ä¿¡:æ•…ä¹¡</a></li>
+<li><a href="#">ç¬¬ä¹å°ä¿¡:å…¬å¹³</a></li>
+<li><a href="#">ç¬¬åå°ä¿¡:å«‰å¦’</a></li>
+<li><a href="#">ç¬¬åä¸€å°ä¿¡:å‘å…‰</a></li>
+<li><a href="#">ç¬¬åäºŒå°ä¿¡:å­¤ç‹¬</a></li>
+<li><a href="#">ç¬¬åä¸‰å°ä¿¡:æ¯äº²</a></li>
+<li><a href="#">ç¬¬åå››å°ä¿¡:æ™®é€š</a></li>
+<li><a href="#">ç¬¬åäº”å°ä¿¡:è‚¥èƒ–</a></li>
+<li><a href="#">ç¬¬åå…­å°ä¿¡:åŽ‹åŠ›</a></li>
+<li><a href="#">ç¬¬åä¸ƒå°ä¿¡:çˆ¶äº²</a></li>
+<li><a href="#">ç¬¬åå…«å°ä¿¡:é’æ˜¥</a></li>
+<li><a href="#">ç¬¬åä¹å°ä¿¡:é‡æ–°å¼€å§‹</a></li>
 </li>
 </ul>
 
@@ -250,30 +250,30 @@
 </br>
 </br>
 </br>
-<h2><font color="FFFFFF"><p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a name="7"></a>¾­µäÓïÂ¼</p></font></h2>
+<h2><font color="FFFFFF"><p>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <a name="7"></a>ç»å…¸è¯­å½•</p></font></h2>
 <font color="FFFFFF">
-&nbsp &nbsp &nbsp &nbsp Ò²ÐíÏÖÔÚÄã»áºÜÄÑ¹ý£¬»áºÜÍ´£¬</br>
-&nbsp &nbsp &nbsp &nbsp ÈÌÒ»ÈÌ£¬×ÜÓÐÒ»ÌìËü»áºÃÆðÀ´¡£</br>
-&nbsp &nbsp &nbsp &nbsp Î´¿Þ¹ý³¤Ò¹µÄÈË²»×ãÒÔÓïÈËÉú¡£</br>
-&nbsp &nbsp &nbsp &nbsp ×Ô×ð³£³£½«ÈËÍÏ×Å£¬°Ñ°®¶¼×ßÇúÕÛ¡£</br>
-&nbsp &nbsp &nbsp &nbsp ÕæÕýµÄ¹ÊÏç,»Ø²»»ØµÃÈ¥£¬Ëü¶¼ÔÚÄÄÀï¡£</br>
-&nbsp &nbsp &nbsp &nbsp Ã¿Ò»¸ö¶ÀÁ¢¶øÇ¿´óµÄÁé»êÆäÊµ¶¼ÊÇ¹Â¶ÀµÄ¡£</br>
-&nbsp &nbsp &nbsp &nbsp Çà´ºÍ¸Ã÷Èç´¼¾Æ£¬¿ÉÒû¿É¾¡¿É±ðÀë¡£</br>
-&nbsp &nbsp &nbsp &nbsp Î§ÔÚ³ÇÀïµÄÈËÏëÌÓ³öÈ¥£¬³ÇÍâµÄÈËÏë³å½øÀ´¡£</br>
-&nbsp &nbsp &nbsp &nbsp µÈÎÒÃÇÔ½¹ý°®ÇéµÄº£Ñó£¬</br>
-&nbsp &nbsp &nbsp &nbsp »áÇìÐÒÖÕ¾¿Ã»·ÅÆúÍËÈÃ¡£</br>
-&nbsp &nbsp &nbsp &nbsp ¸ô×ÅÔ¶¾àÀëÏà°®µÄÊ±¹â£¬½Ì»áÁËÎÒÃÇ£¬</br>
-&nbsp &nbsp &nbsp &nbsp ÈçºÎÈ¥°®Ò»¸öÈË¡£</br>
-&nbsp &nbsp &nbsp &nbsp ·çÒ»¸ü£¬Ñ©Ò»¸ü£¬ñø´ÇÏçÐÄÃÎ²»³É¡£</br>
-&nbsp &nbsp &nbsp &nbsp ¹ÊÔ°ÎÞ´ËÉù¡£</br>
-&nbsp &nbsp &nbsp &nbsp µ«¼ûÅÔÈËÌ¸ÇéºÎÒýÓÕ£¬ÄãÒª¾²ºò£¬ÔÙ¾²ºò£¬</br>
-&nbsp &nbsp &nbsp &nbsp ¾ÍËãÊ§ÊÖÊ¼ÖÕÒªÊØ¡£</br>
+&nbsp &nbsp &nbsp &nbsp ä¹Ÿè®¸çŽ°åœ¨ä½ ä¼šå¾ˆéš¾è¿‡ï¼Œä¼šå¾ˆç—›ï¼Œ</br>
+&nbsp &nbsp &nbsp &nbsp å¿ä¸€å¿ï¼Œæ€»æœ‰ä¸€å¤©å®ƒä¼šå¥½èµ·æ¥ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp æœªå“­è¿‡é•¿å¤œçš„äººä¸è¶³ä»¥è¯­äººç”Ÿã€‚</br>
+&nbsp &nbsp &nbsp &nbsp è‡ªå°Šå¸¸å¸¸å°†äººæ‹–ç€ï¼ŒæŠŠçˆ±éƒ½èµ°æ›²æŠ˜ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp çœŸæ­£çš„æ•…ä¹¡,å›žä¸å›žå¾—åŽ»ï¼Œå®ƒéƒ½åœ¨å“ªé‡Œã€‚</br>
+&nbsp &nbsp &nbsp &nbsp æ¯ä¸€ä¸ªç‹¬ç«‹è€Œå¼ºå¤§çš„çµé­‚å…¶å®žéƒ½æ˜¯å­¤ç‹¬çš„ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp é’æ˜¥é€æ˜Žå¦‚é†‡é…’ï¼Œå¯é¥®å¯å°½å¯åˆ«ç¦»ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp å›´åœ¨åŸŽé‡Œçš„äººæƒ³é€ƒå‡ºåŽ»ï¼ŒåŸŽå¤–çš„äººæƒ³å†²è¿›æ¥ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp ç­‰æˆ‘ä»¬è¶Šè¿‡çˆ±æƒ…çš„æµ·æ´‹ï¼Œ</br>
+&nbsp &nbsp &nbsp &nbsp ä¼šåº†å¹¸ç»ˆç©¶æ²¡æ”¾å¼ƒé€€è®©ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp éš”ç€è¿œè·ç¦»ç›¸çˆ±çš„æ—¶å…‰ï¼Œæ•™ä¼šäº†æˆ‘ä»¬ï¼Œ</br>
+&nbsp &nbsp &nbsp &nbsp å¦‚ä½•åŽ»çˆ±ä¸€ä¸ªäººã€‚</br>
+&nbsp &nbsp &nbsp &nbsp é£Žä¸€æ›´ï¼Œé›ªä¸€æ›´ï¼Œè’è¾žä¹¡å¿ƒæ¢¦ä¸æˆã€‚</br>
+&nbsp &nbsp &nbsp &nbsp æ•…å›­æ— æ­¤å£°ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp ä½†è§æ—äººè°ˆæƒ…ä½•å¼•è¯±ï¼Œä½ è¦é™å€™ï¼Œå†é™å€™ï¼Œ</br>
+&nbsp &nbsp &nbsp &nbsp å°±ç®—å¤±æ‰‹å§‹ç»ˆè¦å®ˆã€‚</br>
 </font>
 
 </div>
 <Div id="footer">
-<p class="q">ÎÒÃÇ´ËÊ±×öµÄÃ¿Ò»¸ö¾ö¶¨£¬µÈµ½ÁËÊ®Äêºó£¬¶¼ÎÞ·¨ÓÃ¶Ô´íÀ´ÅÐ¶Ï¡£</br>
-&nbsp &nbsp &nbsp &nbsp ¾Í´ÓÕâÒ»¿ÌÆð£¬ÈÃÒ»ÇÐÖØÐÂ¿ªÊ¼°É¡£</p>
+<p class="q">æˆ‘ä»¬æ­¤æ—¶åšçš„æ¯ä¸€ä¸ªå†³å®šï¼Œç­‰åˆ°äº†åå¹´åŽï¼Œéƒ½æ— æ³•ç”¨å¯¹é”™æ¥åˆ¤æ–­ã€‚</br>
+&nbsp &nbsp &nbsp &nbsp å°±ä»Žè¿™ä¸€åˆ»èµ·ï¼Œè®©ä¸€åˆ‡é‡æ–°å¼€å§‹å§ã€‚</p>
 </div>
 </head>
 </body>
