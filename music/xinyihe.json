@@ -1,0 +1,107 @@
+[
+  {
+"name": "孤勇者",
+    "artist": "i",
+    "url": "./music/孤勇者.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/孤勇者.lrc"
+  },
+  {
+    "name": "听我说谢谢你",
+    "artist": "H",
+    "url": "./music/听我说谢谢你.mp3",
+    "cover": "./music/i.png",
+    "lrc": "./music/听我说谢谢你.lrc"
+  },
+  {
+    "name": "少年",
+    "artist": "H",
+    "url": "./music/少年.mp3",
+    "cover": "./music/yi.png",
+    "lrc": "./music/少年.lrc"
+  },
+  {
+"name": "为幸福而飞翔",
+    "artist": "i",
+    "url": "./music/he.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/he.lrc"
+  },
+  {
+    "name": "你的答案",
+    "artist": "H",
+    "url": "./music/你的答案.mp3",
+    "cover": "./music/i.png",
+    "lrc": "./music/你的答案.lrc"
+  },
+  {
+    "name": "时光的摇晃",
+    "artist": "i",
+    "url": "./music/时光的摇晃.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/时光的摇晃.lrc"
+  },
+  {
+"name": "离别开出花",
+    "artist": "i",
+    "url": "./music/离别开出花.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/离别开出花.lrc"
+  },
+  {
+    "name": "跳楼机",
+    "artist": "H",
+    "url": "./music/跳楼机.mp3",
+    "cover": "./music/yi.png",
+    "lrc": "./music/跳楼机.lrc"
+  },
+  {
+    "name": "冰雪奇缘",
+    "artist": "H",
+    "url": "./music/冰雪奇缘.mp3",
+    "cover": "./music/i.png",
+    "lrc": "./music/冰雪奇缘.lrc"
+  },
+  {
+"name": "大鱼",
+    "artist": "i",
+    "url": "./music/大鱼.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/大鱼.lrc"
+  },
+  {
+    "name": "还要找你们当爸妈",
+    "artist": "H",
+    "url": "./music/下辈子还要找你们当爸妈.mp3",
+    "cover": "./music/i.png",
+    "lrc": "./music/下辈子还要找你们当爸妈.lrc"
+  },
+  {
+    "name": "青春的颜色",
+    "artist": "H",
+    "url": "./music/青春的颜色.mp3",
+    "cover": "./music/yi.png",
+    "lrc": "./music/青春的颜色.lrc"
+  },
+  {
+    "name": "不知晓",
+    "artist": "i",
+    "url": "./music/不知晓.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/不知晓.lrc"
+  },
+  {
+"name": "你笑起来真好看",
+    "artist": "i",
+    "url": "./music/你笑起来真好看.mp3",
+    "cover": "./music/H.jpg",
+    "lrc": "./music/你笑起来真好看.lrc"
+  },
+  {
+    "name": "天使的翅膀",
+    "artist": "H",
+    "url": "./music/天使的.mp3",
+    "cover": "./music/yi.png",
+    "lrc": "./music/天使的.lrc"
+  }
+]
