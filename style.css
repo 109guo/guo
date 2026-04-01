@@ -1,0 +1,49 @@
+/* 少量自定义样式 */
+.question-image {
+    max-width: 100%;
+    max-height: 300px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.option-image {
+    max-width: 150px;
+    max-height: 100px;
+    margin: 5px 0;
+}
+
+.is-selected {
+    background-color: #3273dc !important;
+    color: white !important;
+}
+
+.is-correct {
+    background-color: #48c774 !important;
+    color: white !important;
+}
+
+.is-wrong {
+    background-color: #f14668 !important;
+    color: white !important;
+}
+
+.progress-bar {
+    transition: width 0.3s ease;
+}
+
+.result-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.result-panel.is-active {
+    max-height: 500px;
+}
+
+.stat-card {
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
